@@ -20,4 +20,5 @@ As we’re nearing demo day and the job hunt, some of you may be thinking of way
 * [Staples](https://design.staples.com/category/Business-Cards?%20%0Acid=PS:GS:CP:CP:E:407:48653:staples_business_cards:141845&cid=PS:GS:CP:CP:e:28:71700000015317693:staples+business+cards:p11701104276)
 * [FedEx Kinkos](http://www.fedex.com/us/office/designprint/index.html?cmp=KNC-1001817-6-14-950-0010000-US-US-EN-BDZ0148Z01ZBIZC&s_kwcid=AL!3806!3!95336533275!e!!g!!kinkos%20business%20cards&code=NEW%7CFXO%7CBrand+Biz+Cards%7CBrand%7CFXO+Brand%7CEM&ef_id=VvGsSwAAAEGs8Pzf:20160720003748:s)
 
-**These sites are just a few popular ones to get you started. We cannot guarantee quality, price or experience.*
+
+\* *These sites are just a few popular ones to get you started. We cannot guarantee quality, price or experience (except for Moo - they may not be the cheapest, but they’re great! Check'em out!)*
