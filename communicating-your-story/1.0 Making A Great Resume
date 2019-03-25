@@ -1,0 +1,169 @@
+HOW TO BUILD YOUR RÉSUMÉ
+
+RÉSUMÉ GOALS
+
+
+The ultimate goal is to make sure that everything we include on your résumé is 100% relevant and helpful to getting you an interview that will get you the job, whether it's highlighting your final project or sharing your transferrable skills from previous work experience.
+
+
+
+In general, think about what skills are transferable to your new career like time management, problem-solving, and organization, and then highlight those few things and make them really dynamic.
+
+
+
+HOW TO CREATE A RÉSUMÉ
+
+
+Commandments of Résumé Crafting
+
+
+Honesty and Accuracy - be a good, smart person. You have great things to offer employers without distorting the truth.
+Consistency - in format and in content. Attention to detail is important. Be consistent in format and content.
+Relevancy - all content must be laser-focused. Make sure that everything you mention is tailored to whatever position you're applying for. If you're applying for project manager roles and developer roles, it's best to create two separate résumés to highlight the two different skill sets those positions require.
+Conciseness - You have 10 seconds to impress, don't be redundant. This keeps your content relevant and interesting and allows you to fit more information on your resume.
+Engaging content - No boring, blasé wording here.
+
+
+As you create your first rough draft, write in everything you can think of skills wise and experience wise. This will get your brain in to a mode where you're combing through your past experiences looking for things to highlight that you may have missed, and it will give you a lot of material to work with starting out. Even though you will distill your experience and skills information later, it's easier to start with a lot of content and work your way down, than to start with a little.
+
+
+
+After you have spent significant time writing and editing your résumé, it's hard to look at it with objective eyes. That's why it's so important to get a second set of eyes to review your résumé, preferably someone in the tech field or someone with writing experience. Having someone double check for errors and feel can be a make or break move, so don't leave that out of your résumé process.
+
+
+
+FORMATTING TIPS
+
+
+Font
+
+
+Do use a sans serif font (e.g., Verdana, Tahoma). Avoid using serif fonts (e.g., Times New Roman). You may also want to play with font size. Generally, size 10 is good for the majority of the document. You may want to increase your name to a size 11 or 12 with contact info a step below, i.e. size 11 for contact info if your name is size 12
+
+
+
+One page vs. Two
+
+
+Generally, it's good to have one page if you can condense the info to one. Remember what your ultimate goal is: highlighting skills relevant to the job you want to get and removing things that do not achieve that goal.
+
+
+
+Margins
+
+
+Feel free to play with the margins of the page to help you get to one page, but make sure they are not too narrow. If you get stuck on this, not to worry! We can help you figure out whether you need one or two pages based on your total content and formatting.
+
+
+
+Tab Stops
+
+
+These are super helpful so that you can align recurring types of info (e.g., dates) on the margin in the page.
+
+
+
+Headings
+
+
+A heading is a title for the section you are introducing your reader to. For example, "Education" is a heading for you to group your previous education experience. Use headings to help readers easily find what they’re looking for, and feel free to use colors to make them "pop." Most blues, darker reds, darker greens, or pretty much anything darker is good.
+
+
+
+A NOTE ABOUT CONSISTENCY
+
+
+Be ultra-consistent on everything about your format, no matter what format you choose. Very small inconsistencies can make a résumé look messy and will not convey your attention to detail. Be careful to pay attention to things like extra spaces between words, choose to use dashes with or without spaces, watch for the use of first person (e.g., “I accomplished”) and sentences without subjects, and use past and present tense appropriately. For example, all previous experience should use the past tense. If you are currently employed, you should use the present tense when describing what you do in your current position. You can use the past tense when speaking about results you achieved while in that role (e.g., “Generated 30% more revenue over 2015).
+
+
+
+When explaining the role, you may use sentences that end with a period (because it’s a sentence). Make sure you only use a period if you're using a real sentence. DO USE bullet points to highlight specific results you achieved while in the position. You do not need to use periods when using bullet points because they should not be complete sentences (e.g., “Achieved 27% year-over-year return on investments).
+
+
+
+Make sure you're using the correct capitalization with languages you mention (Java, Objective C, Ruby on Rails, Heroku, JavaScript, Sass, etc.).
+
+
+
+Make sure there is no redundant info on the Experience and Education sections: Carolina Code School should be in one or the other (preferably experience).
+
+
+
+LET'S DIVE INTO THE CONTENT ITSELF!
+
+
+CONTACT INFO
+
+
+You should ALWAYS have GitHub, a portfolio, and email for contact info at the very top of the résumé. There's no need to include your zip code - you can either say "City, ST" if you're looking for jobs only in Decatur or "Greater City Area" if you're open to the greater metro area. Sometimes employers will write you off if you're located outside their area, so definitely consider who you want your audience to be.
+
+
+
+ABOUT
+
+
+If you have a non-programming background - and most of you will - it's important to have a short "About" section. It should explain who you are as a developer and introduce the audience to the rest of your résumé.
+
+
+
+Just 1-3 lines explaining who you are as a developer, or a brief "professional poker player with a thirst for problem-solving turned developer" type deal. Another example: "As a [previous position], I discovered that I really enjoy problem-solving, and now that I've learned Ruby, I'm ready to find solutions to the world's problems with tech." Or, if your passion lies more in being organized and bringing structure to chaos, focus on that!
+
+
+
+If you're looking for inspiration, try thinking about what you love most about code and seeing if you can connect that with something in your past.
+
+
+
+SKILLS
+
+
+After an About section, you'll want to list your skills.
+
+
+
+Only put skills you feel comfortable talking about. Never put "intro" next to something or in parentheses. When in doubt, ask your instructor. You do not need to list libraries and there is no need to add SASS in addition to CSS. You can work some things into your about section (if you learned the latest technology for JavaScript like ES6) or you can work those things into the description of an app you built.
+
+
+
+RELEVANT EXPERIENCE
+
+
+Here's where you get to list your previous work experience. Use the header of "Relevant Experience” to give yourself more wiggle room to choose what you include, and then whittle away anything that might detract from your experience as a programmer. For example, you may want to keep your mentorship and workshop experience but remove judging for the First Lego League and assisting with the Children's Museum. While they may be interesting, having those things on your résumé doesn't add anything new or beneficial that a hiring manager would want to see.
+
+
+
+Think about what skills are transferable to your new career from your previous roles - like time management, problem-solving, and organization. Try to think about what a hiring manager at a dev shop would want to see (resourceful, committed, loves learning).
+
+
+
+Once you've determined the items you want to include, make sure you make them dynamic. For example, instead of "Sponsored the student council and organized community service and student-life events," start with the stronger verb of "Organized" and expand on any good-to-know challenges you accomplished there.
+
+
+
+EDUCATION
+
+
+List any schools you attended in this section with the name of the school, the degree you pursued (or received) and the dates attended. If you did not complete a degree, you can say something like "Received 40 credit hours toward degree". You should also list any courses relevant to the job you're applying to (e.g., Intro to Computer Science). If your highest level of education is a high school diploma, you may enter Carolina Code School as your education.
+
+
+
+You'll want to explain what Carolina Code School is for anyone who hasn't heard of it! Here's an explanation you can use:
+
+
+
+Carolina Code School is a 12-week coding bootcamp specializing in highly focused, immersive training centered on language fluency, object-oriented programming, and project-based learning.
+
+
+
+FINAL THOUGHTS
+
+
+If an employer needs references, they'll ask you for it. Until then, they're unnecessary and they take up valuable space on your résumé. Another thing to remember here, references are often a tool in helping you land a job, but the goal of your résumé is to help you get an interview. Mentioning references in your résumé is like putting the cart before the horse.
+
+
+
+Be sure to check for spelling and grammatical errors - we will also do the same!
+
+
+
+If it doesn't make sense, please send us a message in Trello to take a look and we're more than happy to weigh in.
