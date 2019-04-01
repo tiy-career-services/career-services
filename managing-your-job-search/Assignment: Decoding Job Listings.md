@@ -1,0 +1,7 @@
+Using the skills you gained from the <a href="./Lesson: Decoding Job Listings.md" target="_blank">Decoding Job Listings</a> lesson, use 5 job postings that you've applied to and write a brief summary for each one containing the following:
+
+1. What does the company do? build?
+2. What is the job posting looking for?
+3. What tech skills are needed?
+
+These summaries should be added to your Trello cards for each of the job postings.
